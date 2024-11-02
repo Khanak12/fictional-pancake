@@ -1,0 +1,10 @@
+x={1,2,3,4,5}
+print(x)
+i={1,"hello",(2,3,4),"hi"}
+print(i)
+r={1,2,3,4,4,5,6,6,6,6,6,7,8}
+print(r)
+h=set({1,2,3,4,5,6})
+print(h)
+h.pop()
+print(h)
